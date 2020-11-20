@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'example_db',
         'USER': 'example_user',
         'PASSWORD': 'kk',
-        'HOST': '18.219.178.59',
+        HOST
         'PORT': '5432',
     }
 }
@@ -123,3 +123,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
